@@ -1,2 +1,2 @@
-# base_number_system-generator
-Base number system generator
+# base_number_system 
+Base number system examples with my class of students
